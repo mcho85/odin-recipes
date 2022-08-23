@@ -1,12 +1,27 @@
 div{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
+.footer-link{
+    font-size: 10px;
+    font-weight: 100;
+}
+
+.h1{
+    font-size: 40px;
+    color: forestgreen;
+
+}
+
+.h2{
+    font-size: 30px;
+    color:#191970 ;
+    
 }
 
 .picture {
     height: auto;
-    width: 800px;
-    
+    width: 800px;    
 }
 
 .center{
