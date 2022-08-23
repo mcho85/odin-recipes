@@ -1,0 +1,17 @@
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.picture {
+    height: auto;
+    width: 800px;
+    
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
